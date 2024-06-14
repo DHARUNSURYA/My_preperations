@@ -1,0 +1,1 @@
+# https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1

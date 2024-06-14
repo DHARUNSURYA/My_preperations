@@ -1,0 +1,1 @@
+# https://www.geeksforgeeks.org/problems/linked-list-length-even-or-odd/1
